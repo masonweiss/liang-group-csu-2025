@@ -12,5 +12,7 @@ sas_analyzer.ipynb: Generates subtracted images for multiple shots and the assoc
 
 # People
 PI: Prof. Edison Liang
+Data Collection: Mason Weiss, Logan Simon
+Analysis: Miles Hartgerink, Aolun Wanyan
 
-Research Assistants: Mason Weiss & Logan Simon
+Credit to Todd Hao for initial development of SAS data analysis in MATLAB
